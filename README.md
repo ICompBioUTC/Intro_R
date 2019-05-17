@@ -11,7 +11,7 @@ Please check the link below:
 https://drive.google.com/drive/folders/1JOPVId2oy6zWB8mH5yojYbuG5zed0Fn8
 
 
-(*)Extra documentation from other courses including  introduction of python , machine learning and linux, please check link below : 
+(*)Extra documentation from other courses including , introduction of python , machine learning and linux can be found from link below : 
 
 
 https://docs.google.com/document/d/e/2PACX-1vR02LH30yuoNujzpCE7xgVxgMDxjLAyCWxwyLG-Xfy7v3FzReoRjqzojY1QmqJj2qOwMW7nLdITtPkF/pub
